@@ -2,28 +2,28 @@
 
 In these guides, you will learn the basics of using git on the command line, as well as using GitLab to contribute code back to a team.
 
-### Installation
+## Installation
 
-#### Windows
+### Windows
 
 Download from git-scm.com
 
 Make sure to include Git Bash as part of the installation (should be selected by default).
 
-#### Linux
+### Linux
 
 Install using your package manager. e.g.
 
 `sudo yum install git` for RHEL and Fedora
 `sudo apt-get install git` for Debian and Ubuntu
 
-#### macOS
+### macOS
 
 Install using [Homebrew](https://brew.sh/) (preferred), MacPorts, or from git-scm.com
 
 Note: DO NOT use the built-in version from Apple. It is likely very out of date.
 
-### Set up your .gitconfig
+## Set up your .gitconfig
 
 Set up your user information with the following commands:
 
